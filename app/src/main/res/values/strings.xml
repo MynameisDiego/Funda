@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">GlucoCheck</string>
+    <string name="login_string">Ingresar</string>
+    <string name="password_hint">Password</string>
+    <string name="usuario_hint">Usuario</string>
+    <string name="email_placeholder">email@example.com</string>
+    <string name="password_placeholder">*********</string>
+    <string name="forgot_placeholder">¿Olvidaste tu contraseña?</string>
+    <string name="signup_placeholder">¿No tienes una cuenta aún?</string>
+    <string name="recover_pass_placeholder">Ingrese su e-mail:</string>
+    <string name="send_email_placeholder">Eviar e-mail</string>
+    <string name="cancel_placeholder">Cancelar</string>
+    <string name="text_subrayado"><u>Link</u></string>
+    <string name="text_contacto1"><u>Contacto 1:</u></string>
+    <string name="text_contacto2"><u>Contacto 2:</u></string>
+    <string name="title_educando">Educando al Paciente</string>
+    <string name="title_nuevopaciente">Nuevo Paciente</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="title_activity_educando">EducandoMainActivity</string>
+    <string name="descripcion_label">¿Qué es la Diabetes?</string>
+    <string name="descripcion_label2">¿Qué complicaciones existen?</string>
+    <string name="descripcion_label3">Tiazolidinedionas</string>
+    <string name="descripcion_label4">Metformina</string>
+    <string name="descripcion_label5">¿Se puede prevenir la diabetes?</string>
+    <string name="descripcion_label6">¿Hay trastornos o enfermedades asociadas a la diabetes?</string>
+    <string name="descripcion_complicaciones">Las complicaciones microvasculares son lesiones oculares (retinopatía) que desembocan en la ceguera; lesiones renales (nefropatía) que acaban en insuficiencia renal; y lesiones de los nervios que ocasionan impotencia y pie diabético (que a veces obliga a amputar como consecuencia de infecciones muy graves)</string>
+    <string name="descripcion_diabetes">La diabetes es una enfermedad que se presenta cuando el nivel de glucosa en la sangre, también conocido como azúcar en la sangre, es demasiado alto. La glucosa en la sangre es la principal fuente de energía y proviene de los alimentos. La insulina, una hormona que produce el páncreas, ayuda a que la glucosa de los alimentos ingrese en las células para usarse como energía. Algunas veces, el cuerpo no produce suficiente o no produce nada de insulina o no la usa adecuadamente y la glucosa se queda en la sangre y no llega a las células.</string>
+    <string name="descripcion_label3Total">Disminuyen la liberación de glucosa del hígado; disminuyen la absorción intestinal de la glucosa; mejoran la sensibilidad a la insulina (incrementan la captación y utilización de la glucosa)</string>
+    <string name="descripcion_label4Total">Disminuyen la resistencia a la insulina en el cuerpo (músculo y tejidos grasos)</string>
+    <string name="descripcion_label5Total">Actualmente, la diabetes tipo 1 y la diabetes gestacional no se pueden prevenir, pero esta es un área de investigación activa</string>
+    <string name="descripcion_label6Total">Sí, el sobrepeso en primer lugar. Cuando se tiene sobrepeso u obesidad, el riesgo de desarrollar diabetes es más alto. </string>
+
+</resources>
